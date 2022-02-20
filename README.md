@@ -28,13 +28,7 @@ def circulate():
 ## Output:
 
 	
-circulate()
-input = 2
-After circulating the values are: [30, 40, 50, 60, 10, 20]
-circulate()
-input = 4
-After circulating the values are: [50, 60, 10, 20, 30, 40]
-
+![output](./EX02OUTPUT.png)
 
 ## Result:
 
