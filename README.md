@@ -16,27 +16,23 @@ Using the slicing concept rotate the list
 ### Step 6: 
 ## Program:
 
-'''
+```
 #Program to circulate N values.
 #Developed by: Lathika Sunder
 #RegisterNumber: 212221230054
+```
 def circulate():
     l=[10,20,30,40,50,60]
     a=int(input())
     result=l[a:]+l[:a]
     print("After circulating the values are:",result)
-    '''
+```
 
 
 ## Output:
 
 	
-circulate()
-input = 2
-After circulating the values are: [30, 40, 50, 60, 10, 20]
-circulate()
-input = 4
-After circulating the values are: [50, 60, 10, 20, 30, 40]
+![output](./EX02OUTPUT python.png)
 
 
 ## Result:
