@@ -32,7 +32,7 @@ def circulate():
 ## Output:
 
 	
-![output](./EX02OUTPUT python.png)
+![output](./EX02OUTPUT.png)
 
 
 ## Result:
